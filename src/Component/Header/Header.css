@@ -1,0 +1,13 @@
+.Header{
+    background-color: #c8c6c6;
+    color: #482c1d;
+    border-bottom: 1px solid #e5e5e5;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
